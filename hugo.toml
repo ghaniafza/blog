@@ -1,6 +1,6 @@
 baseURL = 'https://ghaniafza.github.io/'
 languageCode = 'en-us'
-title = 'Where are you heading?'
+title = 'Ghania Fza'
 theme = 'nostyleplease'
 
 custom_css = ["css/custom.css"]
