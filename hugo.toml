@@ -1,0 +1,11 @@
+baseURL = 'https://ghaniafza.github.io/'
+languageCode = 'en-us'
+title = 'Where are you heading?'
+theme = 'nostyleplease'
+
+custom_css = ["css/custom.css"]
+
+[params]
+  [params.theme_config]
+    appearance = "auto"
+    back_home_text = "../"
