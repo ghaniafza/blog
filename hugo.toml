@@ -9,3 +9,7 @@ custom_css = ["css/custom.css"]
   [params.theme_config]
     appearance = "auto"
     back_home_text = "../"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
