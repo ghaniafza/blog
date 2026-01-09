@@ -7,8 +7,8 @@ custom_css = ["css/custom.css"]
 
 [params]
   [params.theme_config]
-    appearance = "auto"
-    back_home_text = "../"
+    appearance = "light"
+    back_home_text = ". . /"
 
 [caches]
   [caches.images]
