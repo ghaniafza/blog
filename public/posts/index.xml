@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ghania Fayyaza</title>
+    <link>http://localhost:1313/blog/posts/</link>
+    <description>Recent content in Posts on Ghania Fayyaza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 May 2026 10:34:04 +0700</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>On Writing</title>
+      <link>http://localhost:1313/blog/on-writing/</link>
+      <pubDate>Thu, 28 May 2026 10:34:04 +0700</pubDate>
+      
+      <guid>http://localhost:1313/blog/on-writing/</guid>
+      <description>&lt;p&gt;This is something I&amp;rsquo;ve been noticing inside myself lately. At this time and age  when we have massive LLM-generated texts, I kind of start to see the beauty in raw writing with a few mistakes here and there. Or in imperfectly written sentences.&lt;/p&gt;
+&lt;p&gt;As a non-native English speaker, it&amp;rsquo;s very tempting to use LLMs to generate perfect, flawless sentences in a language that&amp;rsquo;s not my mother tongue. And I don&amp;rsquo;t see anything wrong in that because they really are just tools that can make life easier.&lt;/p&gt;
+&lt;p&gt;But the experience becomes a lot more different when I try to formulate my thoughts in English by myself. Something that&amp;rsquo;s not easy to even accomplish in my mother language. Surely there will be a lot of mistakes here and there. But what matters is I&amp;rsquo;m taking the time and effort to actually write. It challenges me and it&amp;rsquo;s what makes it enjoyable.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    
+  </channel>
+</rss>

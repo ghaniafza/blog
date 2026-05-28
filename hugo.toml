@@ -1,0 +1,35 @@
+baseURL = "https://gheniaf.github.io/blog"
+title = "Ghania Fayyaza"
+theme = "etch"
+languageCode = "en-US"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  description = "Notes and thoughts"
+  copyright = "Copyright © 2026 Ghania Fayyaza"
+  dark = "auto"
+  highlight = true
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 20
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allows HTML in Markdown
+  unsafe = true
