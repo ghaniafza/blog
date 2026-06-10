@@ -1,7 +1,7 @@
 +++
 date = '2026-06-10T07:09:07+07:00'
 draft = false 
-title = 'Making Mistakes'
+title = 'On Making Mistakes'
 +++
 
 To a certain extent, we are all afraid to make mistakes, be it in studies or in life in general.
